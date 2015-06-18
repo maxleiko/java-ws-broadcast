@@ -109,9 +109,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:BraindeadCrew/java-websocket-client.git</connection>
-    <developerConnection>scm:git:git@github.com:BraindeadCrew/java-websocket-client.git</developerConnection>
-    <url>http://github.com/BraindeadCrew/java-websocket-client.git</url>
+    <connection>scm:git:git@github.com:maxleiko/java-ws-broadcast.git</connection>
+    <developerConnection>scm:git:git@github.com:maxleiko/java-ws-broadcast.git</developerConnection>
+    <url>http://github.com/maxleiko/java-ws-broadcast.git</url>
   </scm>
 
   <distributionManagement>
